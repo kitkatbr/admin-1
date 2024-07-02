@@ -1,3 +1,3 @@
-const medusaUrl = __MEDUSA_BACKEND_URL__ || "//backend-server-production-6e97.up.railway.app"
+const medusaUrl = __MEDUSA_BACKEND_URL__ || "medusa-starter-default-production-1f80.up.railway.app"
 
 export { medusaUrl }
